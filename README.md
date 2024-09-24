@@ -1,2 +1,2 @@
-# spring-boot-bach-lab
+# spring-boot-batch-lab
 A Spring Boot project designed to merge client data using Spring Batch
